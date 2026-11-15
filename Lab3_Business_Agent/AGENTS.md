@@ -16,6 +16,7 @@ The briefing is written for a CFO who understands financial concepts but needs a
 - Save the actual price observations in prices-used.csv and source information in sources-used.md.
 - Never invent stock prices, news, calculations, or citations. Do not claim that news caused stock movements without evidence.
 - If a source is blocked, try another reliable source. If real price data remains unavailable after approximately 15 minutes, document the attempts and request the instructor's sourced price file.
+- When selecting news developments for a CFO briefing, prioritize substantive financial or operating information over announcements that merely say a report was published. Include relevant verified figures when available in the saved sources. If the saved evidence does not contain those figures, clearly state the limitation rather than inventing them.
 
 ## Checks before finishing
 
